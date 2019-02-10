@@ -1,4 +1,4 @@
-#
+
 # FILE
 #   run_analysis.R
 #
@@ -8,7 +8,7 @@
 #   resulting tidy data to a file named "tidy_data.txt".
 #   See README.md for details.
 #
-
+install.packages("dplyr")
 library(dplyr)
 
 
